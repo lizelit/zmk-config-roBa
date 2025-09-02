@@ -82,10 +82,10 @@
 
         SIGN {
             bindings = <
-&trans          &trans  &trans  &trans  &trans                        &trans         &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSLASH    &kp GRAVE
-&kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans      &trans    &trans         &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp SQT          &kp SEMICOLON
-&trans          &trans  &trans  &trans  &trans  &trans      &kp PIPE  &kp AMPERSAND  &kp LESS_THAN         &kp GREATER_THAN       &kp EXCLAMATION  &kp EQUAL
-&trans          &trans  &trans  &trans  &trans  &trans      &trans    &trans                                                                       &trans
+&trans          &trans  &trans  &trans  &trans                        &trans         &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSLASH  &kp GRAVE
+&kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans      &trans    &trans         &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp SQT        &kp SEMICOLON
+&trans          &trans  &trans  &trans  &trans  &trans      &kp PIPE  &kp AMPERSAND  &kp LESS_THAN         &kp GREATER_THAN       &kp EQUAL      &kp EXCLAMATION
+&trans          &trans  &trans  &trans  &trans  &trans      &trans    &trans                                                                     &trans
             >;
         };
 
