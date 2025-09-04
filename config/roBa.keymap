@@ -56,7 +56,7 @@
 &kp Q             &kp W         &kp P             &kp B                 &kp F                                                 &kp J        &kp L  &lt 5 U    &kp Y    &kp MINUS
 &kp A             &kp R         &kp S             &kp T                 &kp G        &kp K_MUTE                &kp MINUS      &kp H        &kp N  &kp E      &kp I    &kp O
 &mt LEFT_SHIFT X  &kp V         &kp D             &kp Z                 &kp C        &mo 7                     &kp SEMICOLON  &kp K        &kp M  &kp COMMA  &kp DOT  &mt RIGHT_SHIFT SLASH
-&kp LCTRL         &kp LEFT_ALT  &kp LEFT_COMMAND  &lt_to_layer_0 3 F13  &lt 2 SPACE  &lt_to_layer_0 6 F14      &kp BACKSPACE  &lt 1 ENTER                             &kp ESCAPE
+&kp LCTRL         &kp LEFT_ALT  &kp LEFT_COMMAND  &lt_to_layer_0 3 F13  &lt 6 SPACE  &lt_to_layer_0 2 F14      &kp BACKSPACE  &lt 1 ENTER                             &kp ESCAPE
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
